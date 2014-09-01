@@ -1,13 +1,11 @@
 html{
     height: auto;
 }
-body{
-    font-size: 12px;
-}
-html,body,h1,h2,h3,p,ul,ol,li,a{
+html,body,h1,h2,h3,p,ul,ol,li,a,pre{
     margin: 0;
     padding: 0;
     color: #777777;
     text-decoration: none;
     list-style-type:none;
+    font-size: 12px;
 }

@@ -42,7 +42,15 @@
     position: fixed;
     right: 0;
     padding: 10px;
+    width: 100%;
 }
 .footer_container ul li{
+    display: inline;
+}
+.footer_container p{
+    float: right;
+    padding-right: 20px;
+}
+.footer_container ul, .footer_container p{
     display: inline;
 }
