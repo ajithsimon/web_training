@@ -1,0 +1,23 @@
+
+.head_container ul{
+    list-style-type:none;
+    display: inline-block;
+    width: 100%;
+;
+}
+.head_container ul li{
+    display: inline;
+    padding-left: 15px;
+    padding-top: 10px;
+    float: right
+}
+.head_container ul li a{
+    text-decoration: none;
+}
+.content_container{
+    width: 615px;
+    margin: 0 auto;
+    margin-top: 150px;
+    text-align: center;
+}
+.content_container 

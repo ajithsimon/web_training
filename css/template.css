@@ -1,0 +1,11 @@
+html{
+    height: auto;
+}
+body{
+    font-size: 14px;
+}
+html,body,h1,h2,h3,p,ul,ol,li,a{
+    margin: 0;
+    padding: 0;
+    color: #777777;
+}
